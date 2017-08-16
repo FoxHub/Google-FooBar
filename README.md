@@ -1,4 +1,4 @@
-# [Google Foobar Challenge](https://github.com/FoxHub/GoogleFoobar)
+# [Google Foobar Challenge](https://github.com/FoxHub/Google-Foobar)
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
@@ -101,4 +101,4 @@ __My Whiteboard__
 
 Can you guess what challenge this was?
 
-![Whiteboard](https://user-images.githubusercontent.com/5873865/29346666-b3b8fb68-81fb-11e7-87de-269c5fae0e4d.jpg)]
+![Whiteboard](https://user-images.githubusercontent.com/5873865/29346666-b3b8fb68-81fb-11e7-87de-269c5fae0e4d.jpg)
